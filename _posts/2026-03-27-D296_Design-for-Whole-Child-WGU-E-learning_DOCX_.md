@@ -11,7 +11,7 @@ permalink: /wgu/d296/task1-design-whole-child/
 
 <!-- Converted from: Design-for-Whole-Child-WGU-E-learning.docx -->
 <!-- File creation date: 2026-03-27 10:03:49 -->
-<!-- Conversion date: 2026-03-29 17:44:27 -->
+<!-- Conversion date: 2026-03-29 17:52:24 -->
 <!-- Images extracted: 2 -->
 
 Designing for the Whole Child in K–12 E-Learning
